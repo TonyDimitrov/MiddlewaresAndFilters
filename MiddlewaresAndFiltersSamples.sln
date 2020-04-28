@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareExercise", "MiddlewareExercise\MiddlewareExercise.csproj", "{EB870E15-0AA5-4872-BF5B-1E6F64079EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareExercise", "MiddlewareExercise\MiddlewareExercise.csproj", "{EB870E15-0AA5-4872-BF5B-1E6F64079EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltersExercise", "FiltersExercise\FiltersExercise.csproj", "{86762DC2-0481-4A1E-B08A-F4D2594FC488}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiltersExercise", "FiltersExercise\FiltersExercise.csproj", "{86762DC2-0481-4A1E-B08A-F4D2594FC488}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

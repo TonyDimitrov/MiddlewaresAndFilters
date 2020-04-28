@@ -13,7 +13,7 @@
     using Microsoft.Extensions.FileProviders;
     using Microsoft.Extensions.Hosting;
     using MiddlewareExercise.Data;
-    using MiddlewareExercise.Middlewears;
+    using MiddlewareExercise.Middlewares;
     using MiddlewareExercise.Services;
 
     public class Startup

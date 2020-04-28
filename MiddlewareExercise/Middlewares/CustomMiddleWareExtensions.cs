@@ -1,4 +1,4 @@
-﻿namespace MiddlewareExercise.Middlewears
+﻿namespace MiddlewareExercise.Middlewares
 {
     using Microsoft.AspNetCore.Builder;
 
