@@ -1,0 +1,16 @@
+﻿@model MiddlewareExercise.View_Models.MomeVM
+@inject MiddlewareExercise.Services.IInstanceService service
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row ">
+    <div class="col-6">
+        <h1 class="display-4">Welcome</h1>
+        <p>@service.Instances</p>
+        @foreach (var item in Model.Members)
+        {
+            <p>@item</p>
+        }
+    </div>
+</div>
